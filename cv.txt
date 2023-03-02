@@ -1,5 +1,8 @@
 Naam: Olivier van Houwenhove
 Studentennummer: s141850
+--
 Leeftijd: 33
 Geboorteplaats: Sint-Niklaas
 Actief als vrijwilliger bij de brandweer, post Waasmunster
+--
+Ervaring in: VMWare Workstation Pro, Powershell, Visual Studio Code, Packet Tracer, WireShark, MySQL
